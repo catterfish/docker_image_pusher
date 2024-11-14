@@ -1,1 +1,1 @@
-anjone/kicbase
+kubernetes-dashboard
